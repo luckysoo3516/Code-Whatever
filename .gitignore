@@ -4,8 +4,8 @@
 # Ignore Gradle build output directory
 build
 
-node_modules
+/hello-next/.next
 
-package-lock.json
+/hello-next/node_modules
 
-.next
+/hello-next/package-lock.json
